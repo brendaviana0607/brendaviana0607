@@ -1,4 +1,4 @@
-- 👋 olá, meu nome é @brendaviana0607
+- 👋 olá, meu nome é Brenda
 - 👀 interesse em... programação
 - 🌱 atualmente estou aprendendo... programar
 - 📫 como chegar até mim... seja legal
